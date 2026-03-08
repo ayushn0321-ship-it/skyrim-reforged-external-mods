@@ -8,41 +8,6 @@ Some mods cannot be downloaded through Nexus Collections and must be installed m
 
 ## 📦 Required External Mods
 
-### Animation Mods
-
-Mod Name  
-Download: LINK
-
-Mod Name  
-Download: LINK
-
-
-### Adult Mods
-
-Mod Name  
-Download: LINK
-
-Mod Name  
-Download: LINK
-
-
-### Armor & Weapon Mods
-
-Mod Name  
-Download: LINK
-
-Mod Name  
-Download: LINK
-
-
-### Tools & Requirements
-
-SKSE  
-https://skse.silverlock.org/
-
-Address Library  
-LINK
-
 
 --------------------------------------------------
 
